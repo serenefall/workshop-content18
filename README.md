@@ -1,6 +1,6 @@
 # 2018 PIMS BC Data Science Workshop
 
-This is a workshop I worked on in June 2018. Our team's project is Comm100: Determining intent and automating knowledge base creation from live chat transcripts. Detailed project information and my delivery can be access under the "4-comm100" folder. 
+### This is a workshop I worked on in June 2018. Our team's project is Comm100: Determining intent and automating knowledge base creation from live chat transcripts. Detailed project information and my delivery can be access under the ["4-comm100" folder](https://github.com/serenefall/workshop-content18/tree/master/4-comm100). 
 
 
 
